@@ -1,4 +1,4 @@
 # HomeKit-Garage-Door
- HomeKit Garage opener
+ HomeKit Garage Door Opener
 
 
