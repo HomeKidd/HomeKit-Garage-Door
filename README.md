@@ -19,7 +19,7 @@
 * Child Lock _(Enable/Disable external button controll within Eve app)_
 * External Button / Reset button
 * Status LED
-* Built-in power supply _(24VAC/12VDC)_
+* Built-in 5-24VDC power supply _(could be used with STABLE 24VAC too)_
 * ~~History Events~~
 
 This project uses the Apple HomeKit accessory server library [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) from [@MaximKulkin](https://github.com/maximkulkin) for [ESP-OPEN-RTOS](https://github.com/SuperHouse/esp-open-rtos).<br/>
